@@ -11,11 +11,11 @@ Each project contains:
 
 | Project | Domain | Algorithms | Status |
 |--------|--------|------------|--------|
-| [House Price Prediction](./house-price-prediction) | Regression | Linear Regression, Ridge | ✅ |
-| [Titanic Survival](./titanic-survival) | Classification | Logistic Regression, SVM | ✅ |
+| [House Price Prediction](./house-price-prediction) | Regression | Linear Regression, Ridge | 🛠️ In Progress|
+| [Titanic Survival](./titanic-survival) | Classification | Logistic Regression, SVM | 🛠️ In Progress |
 | [Image Classifier](./image-classifier) | CV | CNNs, Transfer Learning | 🛠️ In Progress |
-| [Sentiment Analysis](./sentiment-analysis) | NLP | TF-IDF, Naive Bayes | ✅ |
-| [Customer Segmentation](./customer-segmentation) | Clustering | KMeans, PCA | ✅ |
+| [Sentiment Analysis](./sentiment-analysis) | NLP | TF-IDF, Naive Bayes | 🛠️ In Progress |
+| [Customer Segmentation](./customer-segmentation) | Clustering | KMeans, PCA | 🛠️ In Progress|
 
 ---
 
